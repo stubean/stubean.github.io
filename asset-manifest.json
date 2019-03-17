@@ -1,14 +1,14 @@
 {
-  "main.css": "/stubean.github.io/static/css/main.cceb6de7.chunk.css",
-  "main.js": "/stubean.github.io/static/js/main.ebf90c3a.chunk.js",
-  "main.js.map": "/stubean.github.io/static/js/main.ebf90c3a.chunk.js.map",
-  "runtime~main.js": "/stubean.github.io/static/js/runtime~main.f81c070c.js",
-  "runtime~main.js.map": "/stubean.github.io/static/js/runtime~main.f81c070c.js.map",
-  "static/js/2.8f71a45e.chunk.js": "/stubean.github.io/static/js/2.8f71a45e.chunk.js",
-  "static/js/2.8f71a45e.chunk.js.map": "/stubean.github.io/static/js/2.8f71a45e.chunk.js.map",
-  "index.html": "/stubean.github.io/index.html",
-  "precache-manifest.b23d9ba5c723b7dd8389ca1947e842fe.js": "/stubean.github.io/precache-manifest.b23d9ba5c723b7dd8389ca1947e842fe.js",
-  "service-worker.js": "/stubean.github.io/service-worker.js",
-  "static/css/main.cceb6de7.chunk.css.map": "/stubean.github.io/static/css/main.cceb6de7.chunk.css.map",
-  "static/media/logo.svg": "/stubean.github.io/static/media/logo.5d5d9eef.svg"
+  "main.css": "/portfolio/static/css/main.cceb6de7.chunk.css",
+  "main.js": "/portfolio/static/js/main.1f942f66.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.1f942f66.chunk.js.map",
+  "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
+  "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
+  "static/js/2.8f71a45e.chunk.js": "/portfolio/static/js/2.8f71a45e.chunk.js",
+  "static/js/2.8f71a45e.chunk.js.map": "/portfolio/static/js/2.8f71a45e.chunk.js.map",
+  "index.html": "/portfolio/index.html",
+  "precache-manifest.39aaede25ab818488c2499e113d6941a.js": "/portfolio/precache-manifest.39aaede25ab818488c2499e113d6941a.js",
+  "service-worker.js": "/portfolio/service-worker.js",
+  "static/css/main.cceb6de7.chunk.css.map": "/portfolio/static/css/main.cceb6de7.chunk.css.map",
+  "static/media/logo.svg": "/portfolio/static/media/logo.5d5d9eef.svg"
 }
